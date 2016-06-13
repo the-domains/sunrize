@@ -4,8 +4,15 @@
         <description><![CDATA[home page  web builder and lead generator]]></description>
         <link>https://thegrid.ai/sunrize/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 19:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 14:18:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sunrize/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>sinrize test</p>]]></description>
+            <link>https://thegrid.ai/sunrize/sinrize-test/index.html</link>
+            <guid isPermaLink="false">4a844440-e073-4db2-bbb5-1208329a01bb</guid>
+            <pubDate>Mon, 13 Jun 2016 14:18:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3a35965-7883-446f-baf0-1f170817dd27.jpg">]]></description>
